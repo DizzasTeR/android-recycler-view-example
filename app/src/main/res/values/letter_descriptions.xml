@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="letter_descriptions">
+        <item>"A" for Apple</item>
+        <item>"B" for Ball</item>
+        <item>"C" for Cat</item>
+        <item>"D" for Dog</item>
+        <item>"E" for Elephant</item>
+        <item>"F" for Fish</item>
+        <item>"G" for Gorilla</item>
+        <item>"H" for Hat</item>
+        <item>"I" for Igloo</item>
+        <item>"J" for Juice</item>
+        <item>"K" for Kangaroo</item>
+        <item>"L" for Lion</item>
+        <item>"M" for Monkey</item>
+        <item>"N" for No</item>
+        <item>"O" for Octopus</item>
+        <item>"P" for Prayer</item>
+        <item>"Q" for Question</item>
+        <item>"R" for Ring</item>
+        <item>"S" for Sun</item>
+        <item>"T" for Train</item>
+        <item>"U" for Umbrella</item>
+        <item>"V" for Van</item>
+        <item>"W" for Watch</item>
+        <item>"X" for X-ray</item>
+        <item>"Y" for Yellow</item>
+        <item>"Z" for Zoo</item>
+    </string-array>
+</resources>
